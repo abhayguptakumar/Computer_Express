@@ -1,0 +1,10 @@
+const PRODUCTS = [
+  {id:"p1",name:"Wireless Keyboard & Mouse",category:"Keyboard & Mouse",price:1299,stock:12,icon:"⌨",description:"Comfortable wireless keyboard and mouse combo for everyday work and study.",specs:{Connection:"Wireless",Warranty:"1 Year",Color:"Black"}},
+  {id:"p2",name:"500GB SATA SSD",category:"SSD / RAM",price:2899,stock:8,icon:"▥",description:"Fast and reliable 500GB SATA SSD for system and storage upgrades.",specs:{Capacity:"500GB",Interface:"SATA III",Warranty:"3 Years"}},
+  {id:"p3",name:"HP Compatible Ink Cartridge",category:"Ink Cartridges",price:799,stock:20,icon:"▣",description:"Compatible ink cartridge for supported HP printers.",specs:{Type:"Ink Cartridge",Yield:"High",Warranty:"Replacement support"}},
+  {id:"p4",name:"USB-C Multiport Hub",category:"Laptop Accessories",price:1499,stock:15,icon:"⌁",description:"Compact multiport hub for USB, HDMI and everyday connectivity.",specs:{Ports:"USB + HDMI",Connector:"USB-C",Warranty:"1 Year"}},
+  {id:"p5",name:"1080p Office Webcam",category:"Laptop Accessories",price:1799,stock:10,icon:"◉",description:"Full HD webcam for online classes, meetings and calls.",specs:{Resolution:"1080p",Microphone:"Built-in",Connection:"USB"}},
+  {id:"p6",name:"Wi-Fi Laser Printer",category:"Printers",price:8999,stock:5,icon:"▤",description:"Compact wireless printer designed for home and small-office use.",specs:{Type:"Laser",Connectivity:"Wi-Fi + USB",Warranty:"1 Year"}},
+  {id:"p7",name:"8GB DDR4 RAM",category:"SSD / RAM",price:1699,stock:14,icon:"▥",description:"8GB DDR4 memory module for compatible desktop or laptop systems.",specs:{Capacity:"8GB",Type:"DDR4",Speed:"3200MHz"}},
+  {id:"p8",name:"HDMI Cable 2m",category:"Cables",price:349,stock:30,icon:"⌁",description:"Durable HDMI cable for monitors, TVs and compatible devices.",specs:{Length:"2m",Version:"High Speed HDMI",Warranty:"Replacement support"}}
+];
